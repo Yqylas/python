@@ -15,7 +15,7 @@ while True:
     elif scnd == '/' and thrd == 0:
         print('на ноль делить нельзя');
     else:
-        print('неизвестная команда');
+        print('неизвестная команда')
     break
 
         
